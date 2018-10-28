@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-28T10:48:55.353Z</updated>
+  <updated>2018-10-28T12:12:59.904Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>text</title>
-    <link href="http://yoursite.com/2018/10/28/text/"/>
-    <id>http://yoursite.com/2018/10/28/text/</id>
-    <published>2018-10-28T10:46:07.000Z</published>
-    <updated>2018-10-28T10:48:55.353Z</updated>
+    <title>test</title>
+    <link href="http://yoursite.com/2018/10/28/test/"/>
+    <id>http://yoursite.com/2018/10/28/test/</id>
+    <published>2018-10-28T12:12:59.000Z</published>
+    <updated>2018-10-28T12:12:59.904Z</updated>
     
     <summary type="html">
-    
-      
-      
-        &lt;p&gt;hi~&lt;/p&gt;
-
-      
     
     </summary>
     
@@ -41,7 +35,7 @@
     <link href="http://yoursite.com/2017/07/30/Semantic%20HTML/"/>
     <id>http://yoursite.com/2017/07/30/Semantic HTML/</id>
     <published>2017-07-30T00:13:34.000Z</published>
-    <updated>2018-07-29T14:19:56.523Z</updated>
+    <updated>2018-10-28T12:10:56.553Z</updated>
     
     <summary type="html">
     
